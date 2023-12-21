@@ -1,4 +1,2 @@
 # Website1
-<h1>All about me</h1>
-<h2> Bio</h2>
-
+<h1> About Me</h1>
