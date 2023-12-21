@@ -6,4 +6,12 @@
 
 h1 {
     text-align: center;
+    font-style: italic;
+    font-family: cursive;
+
+}
+
+.Me {
+    text-decoration: underline;
+    color: darkslateblue;
 }
