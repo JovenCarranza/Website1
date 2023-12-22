@@ -15,3 +15,14 @@ h1 {
     text-decoration: underline;
     color: darkslateblue;
 }
+
+p {
+    color: darkgrey;
+}
+img {
+    width: 50%;
+}
+
+h3 {
+    color: ghostwhite;
+}
