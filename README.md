@@ -1,5 +1,7 @@
 # Website1
+<Head>
 <link rel="stylesheet" href="style.css">
+</head>
 
 <h1> About Me</h1>
 <p> Full Name: Joven-ian B. Carranza</P>
