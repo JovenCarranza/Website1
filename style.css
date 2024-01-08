@@ -31,3 +31,12 @@ h3 {
 h2 {
     font-family: cursive;
 }
+
+.success {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    gap: 10px;
+    
+
+}
